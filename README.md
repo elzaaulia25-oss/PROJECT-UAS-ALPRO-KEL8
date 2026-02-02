@@ -148,3 +148,4 @@ Fitur Utama (Fungsionalitas CRUD):
     END
 
 ## Flowchart
+![Flowchart Proyek](download.png)
